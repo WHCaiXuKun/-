@@ -1,6 +1,9 @@
 img {
     height: 100px;
 }
-#name, #result {
+#name {
     color: red;
+}
+#result {
+    color: green;
 }
